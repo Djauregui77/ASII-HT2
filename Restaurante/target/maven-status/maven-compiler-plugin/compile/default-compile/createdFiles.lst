@@ -1,0 +1,12 @@
+gt\com\restaurante\restaurante\JAXRSConfiguration.class
+gt\com\restaurante\svlt\OrdenSvlt.class
+gt\com\restaurante\utils\ExportOrders.class
+gt\com\restaurante\model\Cliente.class
+gt\com\restaurante\model\DetalleMenu.class
+gt\com\restaurante\utils\ToJson.class
+gt\com\restaurante\model\Orden.class
+gt\com\restaurante\restaurante\resources\JavaEE8Resource.class
+gt\com\restaurante\model\Empleado.class
+gt\com\restaurante\model\OrdenDetalles.class
+gt\com\restaurante\model\Menu.class
+gt\com\restaurante\model\Producto.class
